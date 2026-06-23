@@ -1,0 +1,10 @@
+prompt,output,timestamp
+"Hi,Write the Python code to calculate sum of two numbers?","'
+Here is an example of how you could write a function in Python to calculate the sum of two numbers:
+```
+def add_numbers(num1, num2):
+    return num1 + num2
+
+print(add_numbers(3, 5)) # prints 8
+```
+This function takes two arguments `num1` and `num2`, which are the numbers you want to add together. It then returns the sum of these two numbers using the `+` operator. You can call this function by passing in the values for `num1` and `num2` that you want to add, just like in the example above.",2026-02-02 23:53:45.236843

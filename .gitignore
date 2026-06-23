@@ -18,7 +18,7 @@ ENV/
 # Environment files (do NOT commit secrets)
 .env
 Text Summarization/.env
-
+.vs/
 # Editor / IDE
 .vscode/
 .idea/
